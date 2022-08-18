@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.flaterlat01">
    <application
-        android:label="flaterlat01"
+        android:label="Karya Yudi"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
@@ -32,6 +32,6 @@
             android:value="2" />
         <meta-data
         android:name="com.google.android.gms.ads.APPLICATION_ID"
-        android:value="ca-app-pub-3940256099942544~3347511713"/>
+        android:value="ca-app-pub-6563023551129667~4571828223"/>
     </application>
 </manifest>

@@ -28,7 +28,7 @@ class _WebViewPageState extends State<WebViewPage> {
         Expanded(
           child: WebView(
               javascriptMode: JavascriptMode.unrestricted,
-              initialUrl: "https://quran.edsentra.id/"),
+              initialUrl: "https://next-karyayudi-id.vercel.app/"),
         ),
         Container(
             color: Colors.white, width: double.infinity, child: AdsBanner()),

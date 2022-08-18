@@ -19,7 +19,7 @@ class _AdsBannerState extends State<AdsBanner> {
   }
 
   final BannerAd myBanner = BannerAd(
-    adUnitId: 'ca-app-pub-3940256099942544/6300978111',
+    adUnitId: 'ca-app-pub-6563023551129667/3673394112',
     size: AdSize.banner,
     request: AdRequest(),
     listener: BannerAdListener(),
