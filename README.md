@@ -1,4 +1,4 @@
-# flaterlat01
+# flutter project menaruh webview yang pwa supaya bisa menjadi apk semoga bisa di upload di playstore
 
 A new Flutter project.
 
